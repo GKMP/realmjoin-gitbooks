@@ -6,6 +6,8 @@ To a connect a tenant to the Glück & Kanja RealmJoin back-end, a **Hello Token*
 
 A tenant administrator has to give consent to RealmJoin. The Connect Wizard creates the necessary entries in Intune. After the success, it is important to revisit the first tab/browser window and the **Check&Install** option as to be executed.
 
+NOTE: Depending on your session, it might be necessary to re-paste the connect wizard link in your tab again after the first authentication.   
+
 ### RealmJoin Permissions
 
 The following permissions are admitted by the administrator consent and set in Azure via the GraphAPI:
