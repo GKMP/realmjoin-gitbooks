@@ -44,7 +44,7 @@ The following table shows you the steps for Azure KeyVault Creation:
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">5. Fill out the required fields.</td>
+      <td style="text-align:left">5. Fill out the required fields. Please make sure to use a distinct naming scheme for the keyvault url, e.g. rj-{tenant}-{service}</td>
       <td style="text-align:left">
         <p></p>
         <p>
